@@ -1,7 +1,7 @@
 name: clint fuhs
 favicon: null
-layout_spectrum: 0.5515085919760168
-typography_spectrum: 0.5631180952768773
+layout_spectrum: 1
+typography_spectrum: 0.63198
 title: clint fuhs
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8692298959940672
-  lightness: 0.3577588649932295
-  saturation: 0.5464166984893382
-  rhythmicContrast: 0.5030971055384725
+    - '#002949'
+    - '#f5f7fc'
+    - '#000410'
+    - '#abc1dc'
+    - '#809ab8'
+  brandStrength: 0.6875
+  lightness: 0.0625
+  saturation: 0.1875
+  rhythmicContrast: 0
 purpose: []
