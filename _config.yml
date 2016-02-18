@@ -1,6 +1,6 @@
 name: clint fuhs
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.02906
 typography_spectrum: 0.63198
 title: clint fuhs
 cta:
@@ -22,7 +22,7 @@ color:
     - '#000410'
     - '#abc1dc'
     - '#809ab8'
-  brandStrength: 0.6875
+  brandStrength: 0.25
   lightness: 0.0625
   saturation: 0.1875
   rhythmicContrast: 0
